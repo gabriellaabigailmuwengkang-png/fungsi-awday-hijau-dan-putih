@@ -196,11 +196,3 @@
   <footer> 
    <p>© 2025 Sampo Awday Hijau &amp; Hairmask Putih</p> 
   </footer> 
-  <script>
-    document.getElementById("cta-button").addEventListener("click", function () {
-        alert("Coba Sampo Awday Hijau sekarang untuk rambut sehat dan indah!");
-    });
-
-    document.getElementById("cta-button-putih").addEventListener("click", function () {
-        alert("Coba Hairmask Awday Putih sekarang untuk rambut lembut, sehat, dan berkilau!");
-    });
