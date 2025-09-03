@@ -6,7 +6,7 @@
   </header> 
   <main> <!-- Awday Hijau --> 
    <section class="kandungan"> 
-    <h2>Kandungan Utama</h2> 
+    <h2>Kandungan Utama Awday Hijau</h2> 
     <ul> 
      <li><strong>Alpukat:</strong> Melembapkan rambut dan memperbaiki kerusakan.</li> 
      <li><strong>Bayam:</strong> Menutrisi kulit kepala dan merangsang pertumbuhan rambut.</li> 
